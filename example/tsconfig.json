@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-twint": ["../src/index"],
+      "expo-twint/*": ["../src/*"]
+    }
+  }
+}
