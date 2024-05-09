@@ -8,23 +8,14 @@ Helper for integrating TWINT within expo project, Twint Switzerland’s payment 
 
 
 + **TWINT android activity function healper**
-  dependency - ![NPM Version](https://img.shields.io/npm/v/expo-twint)
+  dependency - !(https://badge.fury.io/js/expo-twint)](https://badge.fury.io/js/expo-twint)
 
 
 ### Add the package to your npm dependencies 
 
-```ßß
-npm i expo-idnow-auto-ident
+```
+npm i expo-twint
 ```
 
 ### Configure for Android
-
-Install config plugin
-
-```shell
-npm install expo-idnow-auto-ident-config-plugin --save
-
-or
-
-yarn add expo-idnow-auto-ident-config-plugin  
-```
+TODO
