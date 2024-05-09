@@ -1,11 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-import * as ExpoTwint from 'expo-twint';
-
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>{ExpoTwint.hello()}</Text>
+      <Text>Hello world!</Text>
     </View>
   );
 }
