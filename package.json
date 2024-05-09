@@ -1,6 +1,6 @@
 {
   "name": "expo-twint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expo integration for handling android activity for twint integration",
   "main": "build/index.js",
   "types": "build/index.d.ts",
